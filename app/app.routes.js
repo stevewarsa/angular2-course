@@ -1,4 +1,4 @@
-System.register(['@angular/router', './home.component', './users/users.component', './users/newuser.component', './users/usernotfound.component', './posts.component', './shared/candeactivate.guard'], function(exports_1, context_1) {
+System.register(['@angular/router', './home.component', './users/users.component', './users/newuser.component', './users/usernotfound.component', './posts/posts.component', './shared/candeactivate.guard'], function(exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     var router_1, home_component_1, users_component_1, newuser_component_1, usernotfound_component_1, posts_component_1, candeactivate_guard_1;

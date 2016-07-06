@@ -3,7 +3,7 @@ import {HomeComponent} from './home.component';
 import {UsersComponent} from './users/users.component';
 import {NewUserComponent} from './users/newuser.component';
 import {UserNotFoundComponent} from './users/usernotfound.component';
-import {PostsComponent} from './posts.component';
+import {PostsComponent} from './posts/posts.component';
 import {CanDeactivateGuard} from './shared/candeactivate.guard'; 
 
 export const routes: RouterConfig = [
